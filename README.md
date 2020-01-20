@@ -16,4 +16,4 @@ We will explore the concept of fairness as well as the concepts of expected and 
 
 The Unfair Dice Problem has relevance and application in multiple areas of life, including but not limited to the role small advantages play in the context of employment, housing, access to education and support, mortgages and loan pre-approval, and social advancement and recognition. Although our application is based on a game involving dice, it is an illustration of the effect that seemingly small advantages can play over a long period of time in the outcome that individuals experience. 
 
-![alt text](https://github.com/callysto/callysto-sample-notebooks/blob/master/notebooks/images/Callysto_Notebook-Banners_Bottom_06.06.18.jpg?raw=true)
+![alt text](https://callysto.ca/wp-content/uploads/2018/07/Callysto-Notebook-Banner_Bottom_07.30.18.jpg?raw=true)
