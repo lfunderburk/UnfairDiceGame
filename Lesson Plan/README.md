@@ -6,4 +6,4 @@ Richard Hoshino
 
 Michael Lamoureux
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lgfunderburk/UnfairDiceGame/master?filepath=Lesson%20Plan)
+[Launch in the Callysto Hub](http://tinyurl.com/u5m95da)
